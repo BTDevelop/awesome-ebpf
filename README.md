@@ -1,7 +1,7 @@
 # awesome-ebpf [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a href="https://ebpf.io/">
-    <img src="https://ebpf.io/static/logo-big-9cf8920e80cdc57e6ea60825ebe287ca.png"
+    <img src="https://ebpf.io/static/logo-big-bcc1301f92f547d65907507c088f2c97.png"
          alt="eBPF logo" title="eBPF" />
 </a>
 </br>
